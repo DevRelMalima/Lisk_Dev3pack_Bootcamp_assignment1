@@ -1,4 +1,4 @@
-# Solidity Fundamentals Assigment 1
+# Solidity Fundamentals Assignment 1
 
 ## Create a smart contract that allows users to register and update their profile information ( name, age, email etc).
 
